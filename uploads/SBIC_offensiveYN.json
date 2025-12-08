@@ -1,0 +1,3 @@
+{
+  "user_prompt": "Post:\n\"\"\"\n{content}\n\"\"\"\n\nCould this post be considered offensive, disrespectful, or toxic to anyone/someone?\n\nOptions:\nYes: this could be offensive\nMaybe: I'm not sure\nNo: this is harmless\nIncomprehensible: I don't understand the post\n\nConstraint: Answer in only one word, strictly only either \"Yes\" or \"Maybe\" or \"No\" or \"Incomprehensible\" without using any other words."
+}
